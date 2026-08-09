@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Rohit
 
-<!--
-**rohit-codec/rohit-codec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+💻 C++ | Data Structures & Algorithms | JavaScript
+🌱 Currently learning Web Development
+🚀 Aspiring Software Developer
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** C++, JavaScript, C, Python
+* **DSA:** Data Structures & Algorithms
+* **Web:** HTML, CSS, JavaScript
+* **Tools:** Git, GitHub, VS Code
+
+## 📚 Currently Learning
+
+* JavaScript
+* Web Development
+* Git & GitHub
+* Data Structures & Algorithms
+
+## 🚀 What I'm Working On
+
+* Solving DSA problems
+* Building JavaScript projects
+* Learning full-stack web development
+* Improving my problem-solving skills
+
+## 🎯 Goals
+
+* Become a skilled Software Developer
+* Build useful real-world projects
+* Strengthen DSA and problem-solving
+* Explore AI and modern technologies
+
+## 📫 Connect With Me
+
+* GitHub: [@rohit-codec](https://github.com/rohit-codec)
+* LinkedIn: https://www.linkedin.com/in/rohitdev21/
+
+---
+
+⭐ Thanks for visiting my profile!
