@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Rohit
 
-### Full-Stack Developer (MERN) · B.Tech CSE Student · DSA Enthusiast
+### Full-Stack Developer (MERN) · Machine Learning Enthusiast · B.Tech CSE Student
 
-I build full-stack web apps with real-world features like authentication, payments, and AI integration, and I solve DSA problems in C++ to sharpen my problem-solving.
+I build full-stack web apps with real-world features like authentication, payments, and AI integration, train ML models and ship them as APIs, and solve DSA problems in C++ to sharpen my problem-solving.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitdev21/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rohit-codec)
@@ -18,8 +18,9 @@ I build full-stack web apps with real-world features like authentication, paymen
 - 🎓 B.Tech Computer Science student
 - 💻 Strong in **C++** and **Data Structures & Algorithms**
 - 🌐 Building full-stack apps with the **MERN stack**
+- 🤖 Building end-to-end **ML projects**: data cleaning → model training → FastAPI deployment
 - 🚀 Aspiring Software Developer looking for internship and entry-level opportunities
-- 🤝 Open to collaborating on web and AI-based projects
+- 🤝 Open to collaborating on web and AI/ML projects
 
 ---
 
@@ -45,8 +46,18 @@ I build full-stack web apps with real-world features like authentication, paymen
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?logo=firebase&logoColor=black)
+
+**Machine Learning & Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF)
 
 **Tools & Platforms**
 
@@ -61,15 +72,20 @@ I build full-stack web apps with real-world features like authentication, paymen
 
 ## 🚀 Featured Projects
 
-### 🎙️ [InterviewIQ.AI](https://github.com/rohit-codec/AI-interview-Mern-) · [Live](https://ai-interview-mern-1.onrender.com/)
-An AI-powered mock interview platform. Upload a resume, get personalized questions, answer by voice, and receive AI scoring with a downloadable PDF report.
-`React` `Redux` `Node.js` `Express` `MongoDB` `Firebase Auth` `Razorpay` `OpenRouter API`
 
 ### 🎟️ [Eventora](https://github.com/rohit-codec/Eventora-MERN) · [Live](https://eventora-mern-wheat-two.vercel.app/)
 A full-stack event booking platform with email OTP (2FA), role-based access, and an admin approval workflow for free and paid events.
 `React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `JWT` `Nodemailer`
 
-<!-- Add more projects here, e.g. a C++ / DSA repo -->
+
+### 🎙️ [InterviewIQ.AI](https://github.com/rohit-codec/AI-interview-Mern-) · [Live](https://ai-interview-mern-1.onrender.com/)
+An AI-powered mock interview platform. Upload a resume, get personalized questions, answer by voice, and receive AI scoring with a downloadable PDF report. Includes a Razorpay credit system.
+`React` `Redux` `Node.js` `Express` `MongoDB` `Firebase Auth` `Razorpay` `OpenRouter API`
+
+
+### 🧠 [Mental Health Signal](https://github.com/rohit-codec/Mental-Health-Score) · [Live](https://mental-health-score-1-tfi4.onrender.com)
+An end-to-end ML project that predicts a student's mental health score from social media usage, sleep, and stress. Built a scikit-learn pipeline (R² ≈ 0.88 on test data) and served it through a FastAPI backend with a responsive web UI.
+`Python` `scikit-learn` `Pandas` `FastAPI` `JavaScript`
 
 ---
 
@@ -78,7 +94,7 @@ A full-stack event booking platform with email OTP (2FA), role-based access, and
 - Strengthening **Data Structures & Algorithms** through daily problem solving
 - Writing cleaner, more scalable backend code and APIs
 - Improving app security and production-readiness (env config, auth, deployment)
-- Exploring **AI integrations** in web applications
+- Going deeper into **machine learning** and **AI integrations** in web applications
 
 ---
 
@@ -87,7 +103,7 @@ A full-stack event booking platform with email OTP (2FA), role-based access, and
 - Grow into a skilled Software Developer
 - Build useful real-world projects and contribute to open source
 - Strengthen DSA and problem-solving for technical interviews
-- Explore AI and modern technologies
+- Explore AI, ML, and modern technologies
 
 ---
 
